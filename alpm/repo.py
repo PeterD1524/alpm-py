@@ -1,0 +1,18 @@
+REPOSITORIES = (
+    "core",
+    "extra",
+    "multilib",
+    "core-testing",
+    "extra-testing",
+    "multilib-testing",
+    "gnome-unstable",
+    "kde-unstable",
+    "core-staging",
+    "extra-staging",
+    "multilib-staging",
+    "community-staging",
+    "community-testing",
+    "community",
+    "staging",
+    "testing",
+)
